@@ -1,0 +1,6 @@
+{
+ "g_intertitial" : "/6499/example/interstitial",
+  "g_native" :  "/6499/example/native",
+  "g_open" : "/6499/example/app-open",
+  "g_banner" : "/6499/example/banner"
+}
